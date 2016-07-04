@@ -3,7 +3,7 @@ Platformer is currently a mini-project I am working on. Currently in pre-alpha s
 
 When the game has most of it's functions, I will pull out a new branch, as the game engine will be done. The game will probably be made into an RPG if I were to decide to spend more time on it.
 
-<font size="3">Rules</font>
+# Rules
 Anyone is welcome to contribute, however, if you want to make changes to the game and add to the game(currently game engine), you should learn the structure of the code and what I am aiming for in my code. Here is a list of rules that apply to all contributors and upcoming contributors:
 <ul>
     <li>The game should have regular platform functions that the player can control. These include jumping, moving and attacking(attacking  should be added in the RPG branch which will be created later on.).</li>
